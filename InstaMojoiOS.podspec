@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.platform = :ios , "8.0"
   s.ios.deployment_target = "8.0"
   s.preserve_paths = "InstaMojoiOS-Release-iphoneuniversal/InstaMojoiOS.framework"
-  s.source = { :http => "https://github.com/shardullavekar/InstamojoiOS/raw/0.0.2/InstaMojo-0.0.2.tar.gz"}
+  s.source = { :http => "https://github.com/Shubhakeerti/InstaMojoiOSSDK/raw/0.0.2/InstaMojo-0.0.2.tar.gz"}
   s.ios.vendored_frameworks = "InstaMojoiOS-Release-iphoneuniversal/InstaMojoiOS.framework"
 end
